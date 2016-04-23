@@ -1,7 +1,7 @@
 README: GraphChi
 
 GraphChi is a powerful graph computation engine that can process very
-large graphs from the disk.
+large graphs from the disk. This a cpp code version for GraphChi.
 
 For documentation and background, please visit: 
        https://github.com/GraphChi/graphchi-cpp
